@@ -1,3 +1,5 @@
+package br.com.bootcamp.junit;
+
 public class VariaveisEstaticas {
     private static String email;
     private static String password;

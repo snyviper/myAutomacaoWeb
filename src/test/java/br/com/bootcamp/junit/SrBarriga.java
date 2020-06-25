@@ -1,3 +1,5 @@
+package br.com.bootcamp.junit;
+
 public class SrBarriga {
     VariaveisEstaticas variaveisEstaticas = new VariaveisEstaticas();
     public static void main(String[] args){
