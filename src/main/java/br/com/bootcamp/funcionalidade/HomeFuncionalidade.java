@@ -9,4 +9,6 @@ public class HomeFuncionalidade extends BaseTest {
     public HomeFuncionalidade(){
         this.homePage = new HomePage(webDriver);
     }
+
+    public void start() {System.out.println("Testando nossa execucao"); }
 }
